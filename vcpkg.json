@@ -1,0 +1,12 @@
+{
+    "name": "dashbang-ecs",
+    "version-string": "0.1.0",
+    "dependencies":[
+        "fmt",
+        "spdlog",
+        "glfw3",
+        "glad",
+        "glm",
+        "stb"
+    ]
+}

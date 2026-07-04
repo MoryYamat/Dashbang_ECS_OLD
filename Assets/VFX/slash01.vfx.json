@@ -1,0 +1,7 @@
+{
+    "kind": "Sprite",
+    "texture": "res://Textures/VFX/twirl_01.png",
+    "blend": "Add",
+    "defaultScale": 1.0,
+    "duration": 0.3
+}

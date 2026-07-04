@@ -1,0 +1,3 @@
+This file includes motion data derived from Mixamo (© Adobe Systems).
+Used under the Mixamo license for portfolio and non-commercial educational demonstration purposes only.
+Do not redistribute or reuse the contents.

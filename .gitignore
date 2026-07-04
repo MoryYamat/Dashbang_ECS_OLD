@@ -1,0 +1,53 @@
+# ========================
+# CMake
+# ========================
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build/
+out/
+
+# ========================
+# Visual Studio (IDE only)
+# ========================
+.vs/
+*.vcxproj*
+*.sln
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+ipch/
+*.log
+.vscode
+
+# ========================
+# OS�E�G�f�B�^����
+# ========================
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# ========================
+# �o�C�i����ꎞ�t�@�C��
+# ========================
+*.exe
+*.dll
+*.obj
+*.pdb
+*.cache
+*.ilk
+*.tmp
+*.bak
+*.old
+
+# Mixamo / model / texture / sound assets
+Assets/**/*.glb
+Assets/**/*.fbx
+Assets/**/*.png
+Assets/**/*.jpg
+Assets/**/*.wav
+
+docs/drafts/
